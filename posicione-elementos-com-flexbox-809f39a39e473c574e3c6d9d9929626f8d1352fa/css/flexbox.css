@@ -32,7 +32,22 @@
 .rodapePrincipal-navMap-list{
     display: flex;
     flex-direction: column;
+    flex-wrap: wrap;
+    height: 260px;
 }
 
+.conteudoPrincipal-cursos{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.conteudoPrincipal-cursos-link{
+    width: 20%;
+}
+
+/*Parte mobile*/
+.cabecalhoPrincipal-nav{
+    
+}
 
 
